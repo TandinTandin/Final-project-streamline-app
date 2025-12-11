@@ -1,0 +1,404 @@
+id,magnitude,type,date,time,alert,magType,latitude,longitude,place,continent,country,subnational
+us7000necw,4.8,earthquake,2024-09-17 00:49:42,1726530000000.0,green,mww,32.3984,-102.044,"33 km WSW of Ackerly, Texas",North America,USA,Texas
+tx2024shcj,5.1,earthquake,2024-09-17 00:49:42,1726530000000.0,green,ml,32.414,-102.057,"34 km WSW of Ackerly, Texas",North America,USA,Texas
+us7000ndte,4.1,earthquake,2024-09-14 17:01:06,1726330000000.0,green,mb,31.6323,-104.473,"60 km S of Whites City, New Mexico",North America,USA,Texas
+ci40731623,4.69,earthquake,2024-09-12 14:28:21,1726150000000.0,green,mw,34.0703,-118.808,"6 km N of Malibu, CA",North America,USA,California
+nc75058606,4.28,earthquake,2024-09-07 14:30:36,1725720000000.0,green,mw,38.7765,-122.746,"1 km ESE of The Geysers, CA",North America,USA,California
+nn00882856,4.3,earthquake,2024-08-23 15:31:58,1724430000000.0,green,ml,38.6847,-118.564,"16 km ENE of Walker Lake, Nevada",North America,USA,Nevada
+us7000n90a,4.3,earthquake,2024-08-23 15:31:57,1724430000000.0,green,mwr,38.7101,-118.532,"20 km ENE of Walker Lake, Nevada",North America,USA,Nevada
+us7000n8wd,4.2,earthquake,2024-08-23 03:21:38,1724380000000.0,green,ml,31.6187,-104.443,"62 km S of Whites City, New Mexico",North America,USA,Texas
+nn00882322,4.4,earthquake,2024-08-14 03:06:35,1723600000000.0,green,ml,36.61,-115.727,"8 km NW of Indian Springs, Nevada",North America,USA,Nevada
+us6000njzb,4.1,earthquake,2024-08-14 03:06:35,1723600000000.0,green,ml,36.633,-115.709,"7 km NNW of Indian Springs, Nevada",North America,USA,Nevada
+ci40699207,4.39,earthquake,2024-08-12 19:20:24,1723490000000.0,green,mw,34.0843,-118.185,"4 km SSE of Highland Park, CA",North America,USA,California
+ci40869232,4.44,earthquake,2024-08-08 02:09:15,1723080000000.0,green,mw,35.1017,-119.071,"22 km NW of Grapevine, CA",North America,USA,California
+ci40865224,4.06,earthquake,2024-08-07 04:17:10,1723000000000.0,green,mw,35.1085,-119.075,"22 km SW of Lamont, CA",North America,USA,California
+ci40865192,4.6,earthquake,2024-08-07 04:10:44,1723000000000.0,green,ml,35.111,-119.119,"25 km SW of Lamont, CA",North America,USA,California
+ci40865184,5.22,earthquake,2024-08-07 04:09:56,1723000000000.0,green,mw,35.1108,-119.092,"24 km SW of Lamont, CA",North America,USA,California
+ci40675215,4.89,earthquake,2024-07-29 20:00:52,1722280000000.0,green,mw,34.9498,-116.79,"22 km ENE of Barstow, CA",North America,USA,California
+uu80076711,4.47,earthquake,2024-07-29 05:29:05,1722230000000.0,green,ml,37.4705,-112.848,"24 km S of Brian Head, Utah",North America,USA,Utah
+tx2024orqm,4.5,earthquake,2024-07-27 21:08:31,1722110000000.0,green,ml,31.475,-103.952,"13 km NNE of Hermleigh, Texas",North America,USA,Texas
+us6000nexj,4.4,earthquake,2024-07-23 16:12:14,1721750000000.0,green,mb,50.622,-129.763,"192 km W of Port McNeill, Canada",North America,Unknown,Unknown
+us6000nepl,4.0,earthquake,2024-07-23 02:31:04,1721700000000.0,green,mwr,31.6529,-104.373,"57 km S of Whites City, New Mexico",North America,USA,Texas
+tx2024oixr,4.2,earthquake,2024-07-23 02:31:04,1721700000000.0,green,ml,31.676,-104.407,"55 km S of Whites City, New Mexico",North America,USA,Texas
+us7000mym7,5.2,earthquake,2024-07-11 16:17:20,1720710000000.0,green,mww,48.9111,-128.445,"200 km W of Tofino, Canada",North America,Unknown,Unknown
+us7000mykj,6.4,earthquake,2024-07-11 15:08:47,1720710000000.0,green,mww,48.8127,-128.725,"210 km WSW of Tofino, Canada",North America,Unknown,Unknown
+us7000mx3m,5.7,earthquake,2024-07-04 16:15:08,1720110000000.0,green,mww,48.6926,-129.003,"233 km WSW of Tofino, Canada",North America,Unknown,Unknown
+nn00880126,4.1,earthquake,2024-06-29 23:35:33,1719700000000.0,green,ml,39.52,-116.533,"35 km ESE of Austin, Nevada",North America,USA,Nevada
+us7000nd1m,5.4,earthquake,2024-09-11 07:27:59,1726040000000.0,green,mb,31.1773,70.6295,"31 km W of Karor, Pakistan",Asia,Pakistan,Punjab
+us6000nnfd,5.4,earthquake,2024-08-29 05:56:40,1724910000000.0,green,mb,36.543,71.2681,"28 km WSW of Ashkāsham, Afghanistan",Asia,Afghanistan,Badakhshan
+us7000mpe2,5.9,earthquake,2024-06-01 00:46:38,1717200000000.0,green,mww,34.1604,86.3895,western Xizang,Asia,China,Tibet Autonomous Region
+us7000mnrr,5.4,earthquake,2024-05-29 13:13:27,1716990000000.0,green,mww,23.539,94.6946,"29 km ESE of Mawlaik, Myanmar",Asia,Myanmar,Sagaing Region
+us6000mzrr,5.1,earthquake,2024-05-20 05:10:23,1716180000000.0,green,mww,40.14,77.0348,"113 km NE of Kashgar, China",Asia,China,Xinjiang Uyghur Autonomous Region
+us7000mbuv,5.5,earthquake,2024-04-13 05:44:39,1712990000000.0,green,mww,33.5485,81.8909,western Xizang,Asia,China,Tibet Autonomous Region
+us7000mb76,5.4,earthquake,2024-04-10 14:56:17,1712760000000.0,green,mww,42.0113,82.6416,"34 km NW of Kuqa, China",Asia,China,Xinjiang Uyghur Autonomous Region
+us7000ma59,5.7,earthquake,2024-04-05 12:45:38,1712320000000.0,green,mb,26.5566,97.0128,"33 km NNE of Sarupathar, India",Asia,Myanmar,Kachin State
+us7000m3ur,5.6,earthquake,2024-03-07 10:06:30,1709810000000.0,yellow,mww,33.5147,92.9795,"244 km NNE of Nagqu, China",Asia,China,Qinghai Sheng
+us6000mgsv,5.4,earthquake,2024-03-05 02:07:32,1709600000000.0,yellow,mww,33.5068,93.0029,"240 km NNE of Nagqu, China",Asia,China,Qinghai Sheng
+us7000m1fq,5.4,earthquake,2024-02-25 04:15:00,1708830000000.0,green,mww,41.1648,78.4389,"130 km SSE of Kyzyl-Suu, Kyrgyzstan",Asia,China,Xinjiang Uyghur Autonomous Region
+us7000luuy,5.7,earthquake,2024-01-29 22:27:41,1706570000000.0,yellow,mww,41.1867,78.7155,"128 km WNW of Aykol, China",Asia,China,Xinjiang Uyghur Autonomous Region
+us7000lt2y,5.3,earthquake,2024-01-23 01:18:40,1705970000000.0,green,mww,41.2706,78.8219,"119 km WNW of Aykol, China",Asia,China,Xinjiang Uyghur Autonomous Region
+us7000lt29,5.1,earthquake,2024-01-22 23:19:25,1705970000000.0,green,mwr,41.2186,78.724,"121 km WNW of Aykol, China",Asia,China,Xinjiang Uyghur Autonomous Region
+us7000lt0j,5.5,earthquake,2024-01-22 19:36:47,1705950000000.0,green,mb,41.1979,78.6168,"128 km WNW of Aykol, China",Asia,China,Xinjiang Uyghur Autonomous Region
+us7000lt02,5.4,earthquake,2024-01-22 18:42:33,1705950000000.0,green,mb,41.3326,78.7686,"124 km WNW of Aykol, China",Asia,China,Xinjiang Uyghur Autonomous Region
+us7000lt1i,5.8,earthquake,2024-01-22 18:14:16,1705950000000.0,yellow,mb,41.2946,78.6076,"129 km SSE of Kyzyl-Suu, Kyrgyzstan",Asia,China,Xinjiang Uyghur Autonomous Region
+us7000lsze,7.0,earthquake,2024-01-22 18:09:04,1705950000000.0,red,mww,41.2938,78.5937,"128 km WNW of Aykol, China",Asia,China,Xinjiang Uyghur Autonomous Region
+us6000m31m,6.4,earthquake,2024-01-11 09:20:26,1704960000000.0,green,mww,36.5061,70.5994,"45 km SSW of Jurm, Afghanistan",Asia,Afghanistan,Badakhshan
+us7000ljty,5.1,earthquake,2023-12-18 10:18:52,1702890000000.0,green,mww,33.2109,76.7733,"31 km S of Padam, India",Asia,India,Himachal Pradesh
+us7000lfaa,5.5,earthquake,2023-12-02 03:35:33,1701490000000.0,yellow,mww,23.1278,90.927,"9 km ENE of Rāmganj, Bangladesh",Asia,Bangladesh,Chittagong
+us7000lf3c,5.2,earthquake,2023-12-01 14:55:56,1701440000000.0,green,mww,39.2438,97.2769,"74 km SSW of Laojunmiao, China",Asia,China,Gansu Sheng
+us6000lp06,5.7,earthquake,2023-11-17 01:37:11,1700190000000.0,green,mww,21.226,99.333,"76 km SW of Kēng Tung, Myanmar",Asia,Myanmar,Shan State
+us7000l9ef,5.3,earthquake,2023-11-07 18:09:48,1699380000000.0,green,mww,40.5164,77.7055,"Xinjiang Uygur, China",Asia,China,Xinjiang Uyghur Autonomous Region
+us7000l8p5,5.7,earthquake,2023-11-03 18:02:53,1699030000000.0,yellow,mww,28.8879,82.195,"43 km E of Dailekh, Nepal",Asia,Nepal,Karnali
+us7000l5yp,5.4,earthquake,2023-10-24 11:32:13,1698150000000.0,green,mww,39.2654,97.3075,"71 km SSW of Laojunmiao, China",Asia,China,Gansu Sheng
+us6000lh8c,5.2,earthquake,2023-10-22 01:54:21,1697940000000.0,green,mb,27.8679,84.7191,"36 km NE of Bharatpur, Nepal",Asia,Nepal,Gandaki
+us6000lcgj,5.7,earthquake,2023-10-03 09:21:03,1696320000000.0,green,mww,29.5163,81.2118,"39 km NE of Dipayal, Nepal",Asia,Nepal,Sudurpashchim
+us6000lc8t,4.9,earthquake,2023-10-02 12:45:15,1696250000000.0,green,mww,25.9591,90.6152,"28 km S of Goālpāra, India",Asia,India,Assam
+us6000kzvl,5.3,earthquake,2023-08-14 14:49:48,1692020000000.0,green,mww,24.9743,92.2176,"16 km NW of Karīmganj, India",Asia,Bangladesh,Sylhet Division
+us6000ky4d,5.8,earthquake,2023-08-05 16:01:49,1691250000000.0,green,mww,36.4512,70.7023,"47 km SSW of Jurm, Afghanistan",Asia,Afghanistan,Badakhshan
+us7000ne8y,5.5,earthquake,2024-09-16 14:13:47,1726500000000.0,green,mww,31.6412,131.796,"40 km E of Nichinan, Japan",Asia,Unknown,Unknown
+us7000ndp6,5.7,earthquake,2024-09-13 23:03:41,1726270000000.0,green,mww,29.7999,130.855,"57 km SSE of Koshima, Japan",Asia,Unknown,Unknown
+us7000n7b8,6.1,earthquake,2024-08-15 23:35:53,1723760000000.0,green,mww,23.784,121.759,"30 km SSE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us7000n74c,5.4,earthquake,2024-08-15 09:06:45,1723710000000.0,green,mww,24.3858,121.917,"45 km SSE of Yilan, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000nj9s,6.5,earthquake,2024-08-10 03:28:32,1723260000000.0,green,mww,47.1777,144.763,"151 km E of Dolinsk, Russia",Asia,Unknown,Unknown
+us6000niy6,5.3,earthquake,2024-08-08 19:23:31,1723150000000.0,green,mww,31.8881,131.341,"15 km SW of Miyazaki, Japan",Asia,Japan,Miyazaki
+us6000nith,7.1,earthquake,2024-08-08 07:42:55,1723100000000.0,yellow,mww,31.7491,131.482,"2024 Hyuganada Sea, Japan Earthquake",Asia,Japan,Miyazaki
+us7000mzzc,5.6,earthquake,2024-07-18 11:07:34,1721300000000.0,green,mww,33.536,140.175,"161 km SSE of Tateyama, Japan",Asia,Unknown,Unknown
+us6000n82p,5.4,earthquake,2024-06-25 08:30:59,1719300000000.0,green,mww,33.4887,141.284,"206 km SSE of Katsuura, Japan",Asia,Unknown,Unknown
+us7000mppu,5.7,earthquake,2024-06-02 21:31:39,1717360000000.0,green,mww,37.4574,137.239,"40 km NE of Anamizu, Japan",Asia,Japan,Ishikawa
+us7000mnu8,5.5,earthquake,2024-05-29 17:14:58,1717000000000.0,green,mww,32.2768,137.61,"210 km SE of Kushimoto, Japan",Asia,Unknown,Unknown
+us6000mzxt,5.4,earthquake,2024-05-21 00:39:39,1716250000000.0,green,mww,26.1835,141.391,"Bonin Islands, Japan region",Asia,Unknown,Unknown
+us6000mxpi,5.8,earthquake,2024-05-10 07:45:18,1715330000000.0,green,mww,24.191,121.899,"38 km NE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000mwnh,5.2,earthquake,2024-05-06 09:52:45,1714990000000.0,green,mww,23.7143,121.588,"27 km S of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000mwnf,5.6,earthquake,2024-05-06 09:45:30,1714990000000.0,green,mww,23.7257,121.581,"28 km S of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000mu45,5.2,earthquake,2024-04-26 18:49:29,1714160000000.0,green,mww,24.2257,121.706,"29 km NNE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Hualien
+us6000mu3y,5.7,earthquake,2024-04-26 18:21:23,1714160000000.0,green,mww,24.1449,121.674,"20 km NNE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000mtex,5.3,earthquake,2024-04-24 07:22:10,1713940000000.0,green,mww,28.7699,142.53,"Bonin Islands, Japan region",Asia,Unknown,Unknown
+us6000mt3f,5.8,earthquake,2024-04-23 00:04:05,1713830000000.0,green,mww,23.8026,121.676,"22 km SSE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000mt22,5.4,earthquake,2024-04-22 21:31:38,1713820000000.0,green,mww,23.808,121.634,"22 km SSE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000mt1q,5.4,earthquake,2024-04-22 21:04:21,1713820000000.0,green,mww,23.698,121.574,"35 km S of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000mt1n,5.5,earthquake,2024-04-22 20:49:57,1713820000000.0,green,mww,23.6512,121.606,"35 km S of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000mt0s,6.1,earthquake,2024-04-22 18:32:48,1713810000000.0,yellow,mww,23.8672,121.538,"13 km SSW of Hualien City, Taiwan",Asia,Taiwan (Province of China),Hualien
+us6000mt0r,6.1,earthquake,2024-04-22 18:26:52,1713810000000.0,green,mww,23.7241,121.641,"29 km S of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us7000mduw,5.8,earthquake,2024-04-22 14:11:22,1713800000000.0,green,mww,23.7288,121.562,"27 km S of Hualien City, Taiwan",Asia,Taiwan (Province of China),Hualien
+us7000mdti,5.6,earthquake,2024-04-22 10:50:30,1713780000000.0,green,mww,23.7158,121.63,"30 km S of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000muy0,5.0,earthquake,2024-04-22 10:49:06,1713780000000.0,green,mb,23.7229,121.638,"28 km S of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us7000mcpi,6.3,earthquake,2024-04-17 14:14:46,1713360000000.0,yellow,mww,33.1621,132.387,"18 km W of Uwajima, Japan",Asia,Japan,Ehime
+us7000mcb1,5.9,earthquake,2024-04-15 22:38:56,1713220000000.0,green,mww,29.4708,131.736,"147 km SE of Koshima, Japan",Asia,Unknown,Unknown
+us7000mac0,5.4,earthquake,2024-04-06 00:12:17,1712360000000.0,green,mww,40.9054,143.213,"141 km S of Honchō, Japan",Asia,Unknown,Unknown
+us7000m9sq,6.1,earthquake,2024-04-04 03:16:30,1712200000000.0,green,mww,37.7196,141.924,"77 km E of Minami-Sōma, Japan",Asia,Unknown,Unknown
+us7000m9hp,5.7,earthquake,2024-04-03 02:14:36,1712110000000.0,green,mwr,24.1954,121.932,"41 km NE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us7000mbfv,5.7,earthquake,2024-04-03 01:39:47,1712110000000.0,green,mwr,23.7873,121.784,"27 km SE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us7000m9h9,5.3,earthquake,2024-04-03 01:39:35,1712110000000.0,green,mb,23.8555,121.803,"28 km SE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us7000m9gp,5.6,earthquake,2024-04-03 00:46:44,1712110000000.0,green,mww,24.1465,121.743,"24 km NNE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us7000m9gm,5.3,earthquake,2024-04-03 00:43:55,1712110000000.0,green,mb,23.9598,121.595,"2 km NNW of Hualien City, Taiwan",Asia,Taiwan (Province of China),Hualien
+us7000m9gh,5.6,earthquake,2024-04-03 00:35:36,1712100000000.0,green,mb,24.1609,121.71,"21 km NNE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us7000m9gc,6.4,earthquake,2024-04-03 00:11:25,1712100000000.0,green,mww,24.0651,121.673,"15 km NNE of Hualien City, Taiwan",Asia,Taiwan (Province of China),Unknown
+us7000m9g4,7.4,earthquake,2024-04-02 23:58:12,1712100000000.0,yellow,mww,23.819,121.562,"15 km S of Hualien City, Taiwan",Asia,Taiwan (Province of China),Hualien
+us7000m98g,5.9,earthquake,2024-04-01 19:24:36,1712000000000.0,green,mww,40.1385,141.706,"7 km SW of Kuji, Japan",Asia,Japan,Iwate
+us6000mjkb,5.3,earthquake,2024-03-18 11:04:41,1710760000000.0,green,mww,24.3178,142.875,"Volcano Islands, Japan region",Asia,Unknown,Unknown
+us6000mj1l,5.6,earthquake,2024-03-15 10:32:50,1710500000000.0,green,mww,28.4231,130.134,"49 km E of Tatsugō, Japan",Asia,Japan,Kagoshima
+us6000miuf,5.6,earthquake,2024-03-14 15:14:35,1710430000000.0,green,mww,37.1035,141.143,"21 km E of Iwaki, Japan",Asia,Japan,Fukushima
+us7000lu1f,5.4,earthquake,2024-01-26 12:46:16,1706270000000.0,green,mww,29.1913,141.553,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000m2ny,5.9,earthquake,2024-01-09 08:59:10,1704790000000.0,green,mww,37.8706,137.708,"53 km WSW of Sado, Japan",Asia,Japan,Niigata-ken
+us6000m12f,5.4,earthquake,2024-01-02 01:17:31,1704160000000.0,green,mww,37.2326,136.788,"11 km W of Anamizu, Japan",Asia,Japan,Ishikawa
+us6000m0ya,5.6,earthquake,2024-01-01 09:08:17,1704100000000.0,green,mb,37.5249,137.408,"54 km NE of Anamizu, Japan",Asia,Japan,Ishikawa
+us6000m0y9,5.5,earthquake,2024-01-01 09:03:48,1704100000000.0,green,mb,37.5575,137.384,"56 km NE of Anamizu, Japan",Asia,Japan,Ishikawa
+us6000m0xt,5.6,earthquake,2024-01-01 07:56:47,1704100000000.0,green,mww,37.2969,136.946,"7 km N of Anamizu, Japan",Asia,Japan,Ishikawa
+us6000m0xm,6.2,earthquake,2024-01-01 07:18:41,1704090000000.0,green,mb,37.1959,136.87,"8 km SW of Anamizu, Japan",Asia,Japan,Ishikawa
+us6000m0xl,7.5,earthquake,2024-01-01 07:10:09,1704090000000.0,red,mww,37.4976,137.242,"2024 Noto Peninsula, Japan Earthquake",Asia,Japan,Ishikawa
+us6000m0xj,5.8,earthquake,2024-01-01 07:06:05,1704090000000.0,green,mb,37.5067,137.239,"42 km NE of Anamizu, Japan",Asia,Japan,Ishikawa
+us6000m05c,6.5,earthquake,2023-12-28 09:15:16,1703750000000.0,green,mww,44.5796,148.99,"115 km SE of Kuril’sk, Russia",Asia,Unknown,Unknown
+us6000lphm,5.8,earthquake,2023-11-19 21:01:30,1700430000000.0,green,mww,41.168,142.247,"82 km ENE of Yokohama, Japan",Asia,Unknown,Unknown
+us7000la13,5.8,earthquake,2023-11-10 10:10:02,1699610000000.0,green,mww,45.9031,151.003,"262 km ENE of Kuril’sk, Russia",Asia,Unknown,Unknown
+us7000l9ip,5.6,earthquake,2023-11-08 08:16:30,1699430000000.0,green,mb,44.9541,149.755,"148 km ESE of Kuril’sk, Russia",Asia,Unknown,Unknown
+us7000l5vd,5.9,earthquake,2023-10-23 23:05:24,1698100000000.0,green,mww,24.0602,122.646,"59 km SW of Yonakuni, Japan",Asia,Unknown,Unknown
+us6000lfvj,5.7,earthquake,2023-10-16 10:42:10,1697450000000.0,green,mww,25.1583,125.542,"46 km NNE of Hirara, Japan",Asia,Unknown,Unknown
+us6000le3k,5.3,earthquake,2023-10-08 21:17:28,1696800000000.0,green,mb,29.7869,140.026,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000le2y,5.4,earthquake,2023-10-08 21:05:32,1696800000000.0,green,mb,29.758,140.021,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lddt,5.5,earthquake,2023-10-06 05:49:22,1696570000000.0,green,mww,30.1289,140.022,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000ldbb,6.1,earthquake,2023-10-06 01:31:17,1696560000000.0,green,mww,30.044,140.005,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000ld0f,5.7,earthquake,2023-10-05 06:22:12,1696490000000.0,green,mww,30.0809,139.98,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lczf,5.7,earthquake,2023-10-05 02:53:13,1696470000000.0,green,mww,30.0036,139.831,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lcz5,5.3,earthquake,2023-10-05 02:15:14,1696470000000.0,green,mww,29.9804,139.887,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lcz2,5.4,earthquake,2023-10-05 02:06:32,1696470000000.0,green,mww,29.99,139.968,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lcz1,6.1,earthquake,2023-10-05 01:59:58,1696470000000.0,green,mww,29.959,139.948,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lcy1,5.3,earthquake,2023-10-04 23:18:09,1696460000000.0,green,mww,29.8673,140.048,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lcq8,5.5,earthquake,2023-10-04 05:57:17,1696400000000.0,green,mww,30.786,142.041,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lcpx,5.6,earthquake,2023-10-04 04:55:47,1696400000000.0,green,mww,31.0695,141.884,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lcp1,5.6,earthquake,2023-10-04 02:19:06,1696390000000.0,green,mww,29.9958,140.146,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lcnc,5.5,earthquake,2023-10-04 00:13:45,1696380000000.0,green,mww,30.0215,140.109,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lciv,5.8,earthquake,2023-10-03 15:22:35,1696350000000.0,green,mww,29.9105,140.053,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lch5,6.0,earthquake,2023-10-03 11:38:04,1696330000000.0,green,mww,29.905,139.967,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us6000lbgs,5.8,earthquake,2023-09-28 17:40:06,1695920000000.0,green,mww,44.2539,148.635,"117 km SSE of Kuril’sk, Russia",Asia,Unknown,Unknown
+us7000kx7t,5.7,earthquake,2023-09-21 21:22:12,1695330000000.0,green,mww,30.9578,141.833,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us7000kwm6,5.8,earthquake,2023-09-19 06:22:36,1695100000000.0,green,mww,31.0125,141.989,"Izu Islands, Japan region",Asia,Unknown,Unknown
+us7000kwis,5.5,earthquake,2023-09-18 19:33:03,1695070000000.0,green,mww,38.5129,141.641,"20 km ENE of Onagawa Chō, Japan",Asia,Japan,Miyagi-ken
+us7000kwg2,6.3,earthquake,2023-09-18 13:21:23,1695040000000.0,green,mww,26.4336,125.303,"191 km N of Hirara, Japan",Asia,Unknown,Unknown
+us7000ku4z,5.2,earthquake,2023-09-08 09:28:48,1694170000000.0,green,mwr,38.9566,142.101,"37 km ESE of Ōfunato, Japan",Asia,Japan,Iwate
+us7000kqke,4.9,earthquake,2023-08-24 04:00:29,1692850000000.0,green,mww,21.7833,145.906,Mariana Islands region,Asia,Unknown,Unknown
+us6000kz5s,5.9,earthquake,2023-08-11 00:14:33,1691710000000.0,green,mww,41.1222,142.845,"Hokkaido, Japan region",Asia,Unknown,Unknown
+us6000kyb4,5.5,earthquake,2023-08-06 18:12:41,1691350000000.0,green,mww,30.7637,131.39,"38 km E of Nishinoomote, Japan",Asia,Unknown,Unknown
+us6000kr3t,5.4,earthquake,2023-07-09 13:38:36,1688910000000.0,green,mww,24.0074,143.203,"Volcano Islands, Japan region",Asia,Unknown,Unknown
+us6000kr0e,5.6,earthquake,2023-07-08 19:47:11,1688850000000.0,green,mww,21.895,121.583,"85 km E of Hengchun, Taiwan",Asia,Taiwan (Province of China),Unknown
+us6000knj0,5.8,earthquake,2023-06-27 23:38:21,1687910000000.0,green,mww,42.0873,134.055,"Primor'ye, Russia",Asia,Unknown,Unknown
+us7000kane,5.6,earthquake,2023-06-23 17:39:13,1687540000000.0,green,mww,45.8086,143.124,"94 km NE of Hamatonbetsu, Japan",Asia,Unknown,Unknown
+us6000nq0y,5.7,earthquake,2024-09-06 10:12:58,1725620000000.0,green,mww,-28.6825,-69.3728,"122 km E of Vallenar, Chile",South America,Argentina,San Juan Province
+us6000npu5,5.7,earthquake,2024-09-05 10:38:26,1725530000000.0,green,mww,-19.1251,-67.3038,"61 km WSW of Challapata, Bolivia",South America,Bolivia (Plurinational State of),Departamento de Oruro
+us7000n8ey,5.5,earthquake,2024-08-21 06:55:16,1724220000000.0,green,mww,-22.2935,-65.9607,"43 km WSW of La Quiaca, Argentina",South America,Argentina,Jujuy Province
+us7000n05d,7.4,earthquake,2024-07-19 01:50:48,1721350000000.0,yellow,mww,-23.1243,-67.8715,"41 km ESE of San Pedro de Atacama, Chile",South America,Chile,Region de Antofagasta
+us7000lz23,5.8,earthquake,2024-02-14 01:31:41,1707870000000.0,green,mww,-28.9162,-71.5264,"73 km WSW of Vallenar, Chile",South America,Chile,Unknown
+us7000lyi6,5.4,earthquake,2024-02-11 21:14:43,1707690000000.0,green,mww,-28.229,-71.3898,"63 km NW of Vallenar, Chile",South America,Chile,Unknown
+us7000ltf3,5.3,earthquake,2024-01-24 08:05:10,1706080000000.0,green,mww,-22.1579,-68.682,"41 km NE of Calama, Chile",South America,Chile,Region de Antofagasta
+us7000lt1x,5.4,earthquake,2024-01-22 22:30:11,1705960000000.0,green,mww,-30.2226,-72.2289,"84 km WSW of Coquimbo, Chile",South America,Unknown,Unknown
+us6000m56d,5.3,earthquake,2024-01-21 02:36:01,1705800000000.0,green,mww,-23.3523,-66.6742,"100 km W of El Aguilar, Argentina",South America,Argentina,Jujuy Province
+us6000m2sb,5.4,earthquake,2024-01-09 16:47:25,1704820000000.0,green,mww,-21.9201,-67.253,"128 km SE of Ollagüe, Chile",South America,Bolivia (Plurinational State of),Departamento de Potosi
+us6000m1cg,5.5,earthquake,2024-01-03 08:04:04,1704270000000.0,green,mww,-28.4553,-68.9432,"68 km WNW of Vinchina, Argentina",South America,Argentina,La Rioja Province
+us7000ll6h,5.8,earthquake,2023-12-24 03:23:43,1703390000000.0,green,mww,-38.0756,-73.8819,"53 km SW of Cañete, Chile",South America,Unknown,Unknown
+us7000lkpg,5.6,earthquake,2023-12-21 16:21:52,1703180000000.0,green,mww,-21.9025,-70.2778,"21 km N of Tocopilla, Chile",South America,Chile,Unknown
+usd001097k,5.5,earthquake,2023-12-11 18:35:59,1702320000000.0,green,mww,-24.1126,-66.8382,"49 km WNW of San Antonio de los Cobres, Argentina",South America,Argentina,Salta Province
+us7000lfbb,5.8,earthquake,2023-12-02 07:55:41,1701500000000.0,green,mww,-19.1959,-69.0592,"28 km ENE of Camiña, Chile",South America,Chile,Region de Tarapaca
+us7000l7si,6.6,earthquake,2023-10-31 12:33:43,1698760000000.0,green,mww,-28.7457,-71.5726,"80 km WSW of Vallenar, Chile",South America,Chile,Unknown
+us7000l6nl,5.4,earthquake,2023-10-26 21:49:34,1698360000000.0,green,mww,-28.6909,-70.3075,"50 km ESE of Vallenar, Chile",South America,Chile,Region de Atacama
+us6000legn,6.0,earthquake,2023-10-10 10:01:31,1696930000000.0,green,mww,-22.8844,-66.2242,"61 km WSW of Abra Pampa, Argentina",South America,Argentina,Jujuy Province
+us6000leee,5.6,earthquake,2023-10-10 00:13:17,1696900000000.0,green,mww,-23.6067,-63.6564,"60 km SE of Embarcación, Argentina",South America,Argentina,Salta Province
+us7000kw0l,5.7,earthquake,2023-09-15 18:07:39,1694800000000.0,green,mww,-27.3252,-71.5543,"122 km W of Copiapó, Chile",South America,Unknown,Unknown
+us7000kv7t,5.3,earthquake,2023-09-12 04:58:37,1694490000000.0,green,mww,-20.6514,-68.5222,"Tarapaca, Chile",South America,Chile,Region de Tarapaca
+us7000kv1x,5.5,earthquake,2023-09-11 13:37:08,1694440000000.0,green,mww,-27.1542,-71.2479,"86 km WNW of Copiapó, Chile",South America,Unknown,Unknown
+us7000ktti,6.3,earthquake,2023-09-06 23:48:04,1694040000000.0,green,mww,-30.2775,-71.536,"38 km SSW of Coquimbo, Chile",South America,Chile,Unknown
+us7000kqbl,6.2,earthquake,2023-08-23 14:22:43,1692800000000.0,green,mww,-26.9212,-63.3389,"17 km NNW of El Hoyo, Argentina",South America,Argentina,Santiago del Estero Province
+us6000ky1y,6.2,earthquake,2023-08-05 07:20:06,1691220000000.0,green,mww,-28.2143,-63.1854,"Santiago del Estero, Argentina",South America,Argentina,Santiago del Estero Province
+us7000kg9g,6.6,earthquake,2023-07-17 03:05:11,1689560000000.0,green,mww,-38.1911,-70.3731,"19 km SE of Loncopué, Argentina",South America,Argentina,Neuquen Province
+us6000kr5g,5.7,earthquake,2023-07-09 17:11:33,1688920000000.0,green,mww,-33.2122,-70.3268,"30 km ENE of Chicureo Abajo, Chile",South America,Chile,Region Metropolitana
+us6000kqca,5.8,earthquake,2023-07-06 00:31:56,1688600000000.0,green,mww,-23.9264,-67.9077,"108 km SSE of San Pedro de Atacama, Chile",South America,Chile,Region de Antofagasta
+us7000n9hl,5.5,earthquake,2024-08-26 12:57:41,1724680000000.0,green,mww,-8.7179,110.181,"98 km S of Bambanglipuro, Indonesia",Asia,Unknown,Unknown
+us6000ngfw,5.1,earthquake,2024-07-28 04:35:12,1722140000000.0,green,mww,14.7827,108.243,"53 km NNE of Kon Tum, Vietnam",Asia,Viet Nam,Kon Tum
+us7000n0gn,5.1,earthquake,2024-07-20 12:05:04,1721480000000.0,green,mww,0.0963,96.4898,"155 km WSW of Teluk Dalam, Indonesia",Asia,Unknown,Unknown
+us7000mya1,5.4,earthquake,2024-07-10 15:32:42,1720630000000.0,green,mww,-5.3869,101.059,"224 km SW of Bengkulu, Indonesia",Asia,Unknown,Unknown
+us7000mqgm,5.1,earthquake,2024-06-05 11:16:14,1717590000000.0,green,mww,0.4081,98.5654,"86 km ESE of Teluk Dalam, Indonesia",Asia,Indonesia,Sumatra
+us7000mqdw,5.5,earthquake,2024-06-05 02:20:27,1717550000000.0,green,mww,-3.6267,100.699,"183 km W of Bengkulu, Indonesia",Asia,Indonesia,Sumatra
+us6000n1gi,5.7,earthquake,2024-05-28 11:52:40,1716900000000.0,green,mww,2.8312,95.6044,"93 km WNW of Sinabang, Indonesia",Asia,Indonesia,Nanggroe Aceh Darussalam Province
+us6000muc0,6.1,earthquake,2024-04-27 16:29:50,1714240000000.0,green,mww,-8.1104,107.272,"91 km S of Banjar, Indonesia",Asia,Unknown,Unknown
+us6000mkfz,6.4,earthquake,2024-03-22 08:52:58,1711100000000.0,yellow,mww,-5.8668,112.362,"110 km N of Paciran, Indonesia",Asia,Indonesia,Jawa Timur
+us6000mkej,5.6,earthquake,2024-03-22 04:22:45,1711080000000.0,green,mww,-5.8086,112.311,"117 km N of Paciran, Indonesia",Asia,Indonesia,Jawa Timur
+us6000mgkc,5.2,earthquake,2024-03-04 02:48:21,1709520000000.0,green,mwb,-5.8146,102.185,"224 km S of Bengkulu, Indonesia",Asia,Unknown,Unknown
+us7000m1h8,5.6,earthquake,2024-02-25 13:07:04,1708870000000.0,green,mww,-7.362,105.925,"79 km WSW of Pelabuhanratu, Indonesia",Asia,Indonesia,Banten
+us7000knxb,5.4,earthquake,2023-08-17 04:28:48,1692250000000.0,green,mww,-7.435,105.536,"124 km WSW of Pelabuhanratu, Indonesia",Asia,Unknown,Unknown
+us6000kxp7,5.5,earthquake,2023-08-04 00:31:44,1691110000000.0,green,mww,-6.1198,113.147,"109 km NNE of Bangkalan, Indonesia",Asia,Indonesia,Jawa Timur
+us6000kwam,5.9,earthquake,2023-07-28 19:23:46,1690570000000.0,green,mww,10.501,93.4505,"152 km SE of Port Blair, India",Asia,Unknown,Unknown
+us6000kr40,5.2,earthquake,2023-07-09 14:09:03,1688910000000.0,green,mww,5.3539,94.5693,"81 km W of Banda Aceh, Indonesia",Asia,Unknown,Unknown
+us6000kp2e,5.9,earthquake,2023-06-30 12:57:42,1688130000000.0,green,mww,-8.6741,110.041,"82 km SSW of Bambanglipuro, Indonesia",Asia,Unknown,Unknown
+us6000nsvf,4.2,earthquake,2024-09-18 12:02:12,1726660000000.0,green,mb,51.5572,-130.594,"268 km WNW of Port McNeill, Canada",North America,Canada,Unknown
+us7000neam,4.6,earthquake,2024-09-16 18:13:01,1726510000000.0,green,mb,52.4623,-179.019,"175 km WNW of Adak, Alaska",North America,Unknown,Unknown
+us7000ne9g,4.5,earthquake,2024-09-16 16:01:20,1726500000000.0,green,mb,52.2566,-173.869,"23 km ENE of Atka, Alaska",North America,USA,Alaska
+us7000ne5y,4.7,earthquake,2024-09-16 01:43:25,1726450000000.0,green,mwr,51.3957,-130.863,"279 km WNW of Port McNeill, Canada",North America,Unknown,Unknown
+us7000ne51,6.5,earthquake,2024-09-15 22:22:48,1726440000000.0,green,mww,51.6758,-130.632,"272 km WNW of Port McNeill, Canada",North America,Canada,Unknown
+ak024bwl81gj,4.3,earthquake,2024-09-15 15:17:04,1726410000000.0,green,ml,60.6032,-146.917,"28 km SSW of Tatitlek, Alaska",North America,USA,Alaska
+us7000ne1l,5.0,earthquake,2024-09-15 12:41:03,1726400000000.0,green,mww,52.1396,-179.807,"215 km W of Adak, Alaska",North America,Unknown,Unknown
+ak024bux6req,4.3,earthquake,2024-09-14 14:33:42,1726320000000.0,green,ml,54.9023,-157.07,"199 km SE of Perryville, Alaska",North America,Unknown,Unknown
+ak024brf3kl8,4.0,earthquake,2024-09-12 02:55:34,1726110000000.0,green,ml,51.2731,-178.633,"153 km WSW of Adak, Alaska",North America,USA,Alaska
+ak024bofw3ks,4.0,earthquake,2024-09-10 22:48:57,1726010000000.0,green,ml,51.5965,-175.165,"94 km SW of Atka, Alaska",North America,Unknown,Unknown
+us6000nq4h,4.3,earthquake,2024-09-06 17:16:18,1725640000000.0,green,mb,51.997,-173.57,"48 km ESE of Atka, Alaska",North America,USA,Alaska
+us6000nprr,4.3,earthquake,2024-09-04 21:41:47,1725490000000.0,green,mb,51.4889,-179.588,"208 km WSW of Adak, Alaska",North America,Unknown,Unknown
+us6000npl9,4.0,earthquake,2024-09-04 03:17:13,1725420000000.0,green,mwr,53.4211,-133.318,"201 km S of Hydaburg, Alaska",North America,Unknown,Unknown
+ak024b9eizri,4.6,earthquake,2024-09-01 13:20:21,1725200000000.0,green,ml,59.6591,-151.499,"2 km NE of Homer, Alaska",North America,USA,Alaska
+us6000nnqj,4.4,earthquake,2024-08-30 18:21:57,1725040000000.0,green,mb,52.6166,-168.748,"36 km SSE of Nikolski, Alaska",North America,Unknown,Unknown
+ak024b66fres,4.0,earthquake,2024-08-30 18:21:57,1725040000000.0,green,ml,52.6577,-168.78,"31 km S of Nikolski, Alaska",North America,Unknown,Unknown
+us6000nn4i,4.8,earthquake,2024-08-27 22:12:02,1724800000000.0,green,mb,54.3454,-162.778,"69 km SE of False Pass, Alaska",North America,USA,Alaska
+us6000nn2e,4.0,earthquake,2024-08-27 15:01:00,1724770000000.0,green,ml,54.4421,-159.647,"113 km SSE of Sand Point, Alaska",North America,Unknown,Unknown
+ak024azio1hm,5.0,earthquake,2024-08-26 15:49:43,1724690000000.0,green,ml,54.5449,-159.729,"100 km SSE of Sand Point, Alaska",North America,Unknown,Unknown
+us6000nmvh,5.1,earthquake,2024-08-26 15:49:41,1724690000000.0,green,mww,54.5455,-159.689,"102 km SSE of Sand Point, Alaska",North America,Unknown,Unknown
+at00siu1as,5.0,earthquake,2024-08-26 15:49:40,1724690000000.0,green,Ml,54.514,-159.567,"109 km SSE of Sand Point, Alaska",North America,Unknown,Unknown
+us7000n8ql,4.4,earthquake,2024-08-22 09:52:55,1724320000000.0,green,mb,50.5904,-173.373,"187 km SSE of Atka, Alaska",North America,Unknown,Unknown
+us7000n803,4.0,earthquake,2024-08-19 13:46:40,1724080000000.0,green,mb,49.813,-178.305,"254 km SSW of Adak, Alaska",North America,Unknown,Unknown
+us6000njz2,4.0,earthquake,2024-08-13 17:37:52,1723570000000.0,green,mb,50.2648,-173.472,"209 km SSE of Atka, Alaska",North America,Unknown,Unknown
+us6000nhnr,4.0,earthquake,2024-08-02 19:12:21,1722630000000.0,green,mwr,52.6053,-166.906,"137 km ESE of Nikolski, Alaska",North America,Unknown,Unknown
+us6000nhbe,5.6,earthquake,2024-08-01 10:03:16,1722510000000.0,green,mww,54.1094,-159.702,"145 km SSE of Sand Point, Alaska",North America,Unknown,Unknown
+ak0249u2za8u,5.4,earthquake,2024-08-01 10:03:15,1722510000000.0,green,ml,54.0955,-159.699,"147 km SSE of Sand Point, Alaska",North America,Unknown,Unknown
+at00shjalf,5.4,earthquake,2024-08-01 10:03:15,1722510000000.0,green,Mi,54.038,-159.522,"157 km SSE of Sand Point, Alaska",North America,Unknown,Unknown
+ak0249secrkx,4.6,earthquake,2024-07-31 08:20:43,1722410000000.0,green,mwr,59.1053,-139.141,"68 km SSE of Yakutat, Alaska",North America,USA,Alaska
+us6000nh23,4.1,earthquake,2024-07-31 06:00:25,1722410000000.0,green,mwr,53.3838,-163.613,"149 km S of False Pass, Alaska",North America,Unknown,Unknown
+at00shdc2h,5.1,earthquake,2024-07-29 04:49:29,1722230000000.0,green,Ml,52.306,-174.645,"32 km WNW of Atka, Alaska",North America,USA,Alaska
+us6000ngl3,4.8,earthquake,2024-07-29 04:49:27,1722230000000.0,green,mww,52.042,-174.531,"28 km SW of Atka, Alaska",North America,USA,Alaska
+ak0249p12ivh,5.2,earthquake,2024-07-29 04:49:26,1722230000000.0,green,ml,51.8371,-174.491,"44 km SSW of Atka, Alaska",North America,USA,Alaska
+ak0249ly3xrw,4.5,earthquake,2024-07-27 18:12:14,1722100000000.0,green,mww,60.3148,-152.365,"47 km NW of Ninilchik, Alaska",North America,USA,Alaska
+us6000nf77,4.2,earthquake,2024-07-24 10:05:32,1721820000000.0,green,mb,54.1392,-169.371,"142 km NNW of Nikolski, Alaska",North America,Unknown,Unknown
+ak0249gqjs0x,4.0,earthquake,2024-07-24 03:09:20,1721790000000.0,green,ml,50.4551,-175.92,"165 km SSE of Adak, Alaska",North America,Unknown,Unknown
+us6000nf3m,4.6,earthquake,2024-07-24 03:09:18,1721790000000.0,green,mb,50.5048,-175.929,"168 km SSE of Adak, Alaska",North America,Unknown,Unknown
+ak0249gqjja3,4.2,earthquake,2024-07-24 03:08:13,1721790000000.0,green,mwr,67.8725,-160.84,"88 km ESE of Red Dog Mine, Alaska",North America,USA,Alaska
+ak0249f61dl8,4.7,earthquake,2024-07-23 08:17:57,1721720000000.0,green,mwr,55.0344,-157.609,"143 km SE of Perryville, Alaska",North America,Unknown,Unknown
+us7000n068,6.0,earthquake,2024-07-19 03:13:47,1721360000000.0,green,mwr,52.1259,-170.932,"168 km SW of Nikolski, Alaska",North America,Unknown,Unknown
+at00sguoyy,5.9,earthquake,2024-07-19 03:13:46,1721360000000.0,green,Mi,51.777,-170.741,"181 km SW of Nikolski, Alaska",North America,Unknown,Unknown
+us7000mzzt,4.1,earthquake,2024-07-18 12:26:15,1721310000000.0,green,mb,52.8906,-158.04,south of Alaska,North America,Unknown,Unknown
+us7000mzca,4.2,earthquake,2024-07-15 13:25:58,1721050000000.0,green,mwr,52.1227,-170.579,"158 km SW of Nikolski, Alaska",North America,Unknown,Unknown
+us7000mcxc,5.6,earthquake,2024-04-18 15:11:25,1713450000000.0,green,mww,39.9972,35.9796,"11 km W of Sulusaray, Turkey",Asia,Turkiye,Tokat
+us7000m8q9,5.8,earthquake,2024-03-29 07:12:48,1711700000000.0,green,mww,37.3286,21.3156,"34 km WNW of Filiatrá, Greece",Europe,Unknown,Unknown
+us6000mirj,5.4,earthquake,2024-03-14 03:06:47,1710390000000.0,green,mww,42.9936,18.6796,"22 km ENE of Bileća, Bosnia and Herzegovina",Europe,Montenegro,Opstina Niksic
+us7000lgud,5.4,earthquake,2023-12-07 04:15:39,1701920000000.0,green,mww,41.1549,49.7415,"44 km NNE of Şuraabad, Azerbaijan",Asia,Unknown,Unknown
+us7000la3j,4.8,earthquake,2023-11-10 15:36:29,1699630000000.0,green,mww,32.797,47.6372,"28 km SE of ?bd?n?n, Iran",Asia,Iran (Islamic Republic of),Ilam Province
+us6000kz45,5.2,earthquake,2023-08-10 17:48:01,1691690000000.0,green,mww,38.2787,38.2053,"5 km SW of Yeşilyurt, Turkey",Asia,Turkiye,Malatya
+us7000ki5u,5.5,earthquake,2023-07-25 05:44:51,1690260000000.0,green,mww,37.5831,35.9568,"18 km NE of Kozan, Turkey",Asia,Turkiye,Adana
+us6000kpxj,5.3,earthquake,2023-07-03 20:01:49,1688410000000.0,green,mww,41.746,49.2837,"49 km NE of Xaçmaz, Azerbaijan",Asia,Unknown,Unknown
+us6000nncs,6.1,earthquake,2024-08-28 21:57:56,1724880000000.0,green,mww,12.998,-89.5623,"60 km SSW of La Libertad, El Salvador",North America,Unknown,Unknown
+us6000ni8h,5.4,earthquake,2024-08-05 19:02:59,1722880000000.0,green,mww,16.9087,-93.8167,"17 km NW of Emiliano Zapata, Mexico",North America,Mexico,Estado de Chiapas
+us6000nge5,4.1,earthquake,2024-07-27 21:08:32,1722110000000.0,green,mwr,32.7758,-100.685,"17 km NNE of Hermleigh, Texas",North America,USA,Texas
+us6000ng4s,4.8,earthquake,2024-07-26 14:28:29,1722000000000.0,green,mww,32.7457,-100.67,"16 km NE of Hermleigh, Texas",North America,USA,Texas
+tx2024ophu,5.1,earthquake,2024-07-26 14:28:29,1722000000000.0,green,ml,32.746,-100.692,"17 km NNE of Hermleigh, Texas",North America,USA,Texas
+us6000nfic,4.1,earthquake,2024-07-25 02:57:43,1721880000000.0,green,mb,32.7632,-100.653,"17 km NE of Hermleigh, Texas",North America,USA,Texas
+tx2024ompo,4.0,earthquake,2024-07-25 02:57:42,1721880000000.0,green,ml,32.74,-100.732,"16 km NNE of Hermleigh, Texas",North America,USA,Texas
+tx2024ojad,4.4,earthquake,2024-07-23 03:46:25,1721710000000.0,green,ml,32.769,-100.67,"16 km NNE of Hermleigh, Texas",North America,USA,Texas
+tx2024oizv,4.9,earthquake,2024-07-23 03:38:42,1721710000000.0,green,ml,32.753,-100.638,"17 km NNE of Hermleigh, Texas",North America,USA,Texas
+us7000n0ka,6.2,earthquake,2024-07-21 02:53:48,1721530000000.0,green,mww,14.5566,-89.9665,"7 km E of Jalapa, Guatemala",North America,Guatemala,Departamento de Jalapa
+tx2024klhx,4.1,earthquake,2024-05-28 11:51:10,1716900000000.0,green,ml,31.674,-104.189,"55 km NW of Toyah, Texas",North America,USA,Texas
+us6000my20,6.4,earthquake,2024-05-12 11:39:12,1715510000000.0,yellow,mww,14.4518,-92.363,"28 km WSW of Brisas Barra de Suchiate, Mexico",North America,Mexico,Unknown
+us7000mdpx,5.4,earthquake,2024-04-21 19:05:14,1713730000000.0,green,mww,18.2141,-105.628,"142 km SSW of Emiliano Zapata, Mexico",North America,Unknown,Unknown
+us7000mcxe,5.6,earthquake,2024-04-18 15:12:30,1713450000000.0,green,mww,26.2173,-110.508,"64 km ESE of Loreto, Mexico",North America,Unknown,Unknown
+us7000mcrs,5.5,earthquake,2024-04-17 21:21:54,1713390000000.0,green,mww,11.1362,-85.3425,"20 km ESE of Cárdenas, Nicaragua",North America,Nicaragua,Departamento de Rivas
+tx2024hcdm,4.4,earthquake,2024-04-10 18:46:45,1712770000000.0,green,ml,32.318,-101.82,"21 km N of Stanton, Texas",North America,USA,Texas
+us7000man5,5.0,earthquake,2024-04-07 17:49:32,1712510000000.0,green,mb,13.7984,-88.995,"2 km S of Tenancingo, El Salvador",North America,El Salvador,Departamento de Cuscatlan
+us6000mjct,5.6,earthquake,2024-03-17 00:44:02,1710640000000.0,green,mww,12.3515,-87.6834,"45 km SSW of Jiquilillo, Nicaragua",North America,Unknown,Unknown
+us7000m3ud,5.6,earthquake,2024-03-07 08:20:10,1709800000000.0,green,mww,9.7781,-86.3237,"78 km SW of Tamarindo, Costa Rica",North America,Unknown,Unknown
+us7000m11m,4.0,earthquake,2024-02-23 09:47:07,1708680000000.0,green,mwr,32.6365,-104.384,"15 km S of Atoka, New Mexico",North America,USA,New Mexico
+us7000lztu,4.7,earthquake,2024-02-17 06:32:54,1708150000000.0,green,mwr,28.9405,-97.9993,"5 km SSE of Falls City, Texas",North America,USA,Texas
+tx2024dijp,4.7,earthquake,2024-02-17 06:32:54,1708150000000.0,green,ml,28.954,-98.001,"3 km SSE of Falls City, Texas",North America,USA,Texas
+us7000lzts,4.3,earthquake,2024-02-17 06:20:22,1708150000000.0,green,mwr,28.9866,-98.0212,"0 km NW of Falls City, Texas",North America,USA,Texas
+tx2024dijf,4.4,earthquake,2024-02-17 06:20:21,1708150000000.0,green,ml,28.954,-98.005,"3 km SSE of Falls City, Texas",North America,USA,Texas
+us6000nn4q,5.1,earthquake,2024-08-27 22:43:04,1724800000000.0,green,mww,-34.3923,179.972,south of the Kermadec Islands,Oceania,Unknown,Unknown
+us7000mqhw,4.9,earthquake,2024-06-05 14:19:43,1717600000000.0,green,mb,-38.2187,176.033,"10 km E of Tokoroa, New Zealand",Oceania,New Zealand,Waikato
+us7000ltgv,5.1,earthquake,2024-01-24 14:18:37,1706110000000.0,green,mww,-40.2633,176.402,"25 km ESE of Dannevirke, New Zealand",Oceania,New Zealand,Hawke's Bay
+us6000lfhl,5.7,earthquake,2023-10-14 06:34:10,1697270000000.0,green,mww,-31.3282,179.732,Kermadec Islands region,Oceania,Unknown,Unknown
+us7000kwrq,5.5,earthquake,2023-09-19 21:14:49,1695160000000.0,green,mww,-43.7064,171.118,"Canterbury, New Zealand",Oceania,New Zealand,Canterbury
+us6000kz5m,5.1,earthquake,2023-08-10 23:53:19,1691710000000.0,green,mww,-40.1882,173.572,"88 km SSW of Opunake, Oceania",Oceania,Unknown,Unknown
+us6000mjux,5.3,earthquake,2024-03-19 21:27:01,1710880000000.0,green,mww,29.7252,65.3575,"68 km WNW of Nushki, Pakistan",Asia,Afghanistan,Kandahar
+us6000mjpj,5.5,earthquake,2024-03-19 00:35:18,1710810000000.0,green,mww,29.7645,65.3645,"64 km WNW of Nushki, Pakistan",Asia,Afghanistan,Kandahar
+us6000mgt8,5.1,earthquake,2024-03-05 04:20:14,1709610000000.0,green,mww,27.1043,59.3301,"60 km NNW of Fannūj, Iran",Asia,Iran (Islamic Republic of),Sistan and Baluchestan Province
+us6000lg6k,5.3,earthquake,2023-10-17 16:26:49,1697560000000.0,yellow,mww,27.7439,56.0776,"62 km NNW of Bandar Abbas, Iran",Asia,Iran (Islamic Republic of),Hormozgan Province
+us6000lg3n,5.0,earthquake,2023-10-17 08:22:11,1697530000000.0,green,mww,27.6888,56.0903,"57 km NNW of Bandar Abbas, Iran",Asia,Iran (Islamic Republic of),Hormozgan Province
+us6000lg2t,5.5,earthquake,2023-10-17 05:10:03,1697520000000.0,green,mww,27.7363,56.1369,"58 km NNW of Bandar Abbas, Iran",Asia,Iran (Islamic Republic of),Hormozgan Province
+us6000lfng,5.4,earthquake,2023-10-15 03:56:28,1697340000000.0,yellow,mww,34.6012,62.1031,"26 km NNW of Herāt, Afghanistan",Asia,Afghanistan,Herat
+us6000lfn5,6.3,earthquake,2023-10-15 03:36:00,1697340000000.0,orange,mww,34.6171,62.0517,"34 km NNW of Herāt, Afghanistan",Asia,Afghanistan,Herat
+us6000len8,6.3,earthquake,2023-10-11 00:41:55,1696980000000.0,red,mww,34.5798,62.0717,"24 km NNW of Herāt, Afghanistan",Asia,Afghanistan,Herat
+us6000ldpv,5.9,earthquake,2023-10-07 07:40:30,1696660000000.0,yellow,mww,34.6391,62.0327,"35 km NNW of Herāt, Afghanistan",Asia,Afghanistan,Herat
+us6000ldpm,6.3,earthquake,2023-10-07 07:12:49,1696660000000.0,orange,mww,34.5492,61.884,"25 km NNE of Zindah Jān, Afghanistan",Asia,Afghanistan,Herat
+us6000ldph,5.4,earthquake,2023-10-07 06:49:41,1696660000000.0,yellow,mb,34.5414,61.9547,"26 km NE of Zindah Jān, Afghanistan",Asia,Afghanistan,Herat
+us6000ldpg,6.3,earthquake,2023-10-07 06:41:03,1696660000000.0,orange,mww,34.6259,61.926,"32 km NNE of Zindah Jān, Afghanistan",Asia,Afghanistan,Herat
+ci40809504,4.09,earthquake,2024-06-24 22:30:59,1719270000000.0,green,mw,35.112,-119.109,"24 km SW of Lamont, CA",North America,USA,California
+us7000ne1t,5.5,earthquake,2024-09-15 13:08:09,1726410000000.0,green,mww,1.3376,118.461,"171 km NE of Bontang, Indonesia",Asia,Indonesia,Kalimantan
+us6000nqrs,5.4,earthquake,2024-09-09 21:01:31,1725920000000.0,green,mb,4.3537,126.74,"183 km SE of Sarangani, Philippines",Asia,Indonesia,Sulawesi
+us7000n7v7,5.7,earthquake,2024-08-19 03:39:00,1724040000000.0,green,mww,12.7442,124.767,"20 km NNW of Bugko, Philippines",Asia,Philippines (the),Eastern Visayas (Region VIII)
+us6000njkw,5.0,earthquake,2024-08-12 11:36:14,1723460000000.0,green,mww,2.3246,126.572,"173 km WNW of Tobelo, Indonesia",Asia,Indonesia,Moluccas
+us6000nht0,6.3,earthquake,2024-08-03 04:20:26,1722660000000.0,green,mww,8.1704,126.764,"44 km E of Barcelona, Philippines",Asia,Unknown,Unknown
+us6000nhqc,6.8,earthquake,2024-08-02 22:23:02,1722640000000.0,green,mww,8.1856,126.612,"20 km E of Barcelona, Philippines",Asia,Philippines (the),Caraga (Region XIII)
+us7000mzpj,5.4,earthquake,2024-07-16 23:39:32,1721170000000.0,green,mww,1.246,126.089,"111 km ESE of Bitung, Indonesia",Asia,Indonesia,Moluccas
+us7000myfa,7.1,earthquake,2024-07-11 02:13:18,1720660000000.0,green,mww,6.0646,123.16,"106 km WSW of Sangay, Philippines",Asia,Unknown,Unknown
+us7000msn7,5.6,earthquake,2024-06-15 13:08:14,1718460000000.0,green,mww,3.1375,127.319,"180 km NNW of Tobelo, Indonesia",Asia,Indonesia,Sulawesi
+us7000mrz8,5.8,earthquake,2024-06-12 17:01:20,1718210000000.0,green,mww,4.3844,126.49,"158 km SE of Sarangani, Philippines",Asia,Indonesia,Sulawesi
+us7000mrn5,5.2,earthquake,2024-06-11 06:58:36,1718090000000.0,green,mww,9.4367,119.732,"97 km SE of Caramay, Philippines",Asia,Philippines (the),Unknown
+us6000n07e,5.0,earthquake,2024-05-22 05:49:12,1716360000000.0,green,mww,0.2108,123.704,"81 km ESE of Gorontalo, Indonesia",Asia,Indonesia,Sulawesi Utara
+us6000mvya,5.7,earthquake,2024-05-03 10:16:23,1714730000000.0,green,mww,10.8748,125.29,"27 km SSW of Balangiga, Philippines",Asia,Philippines (the),Unknown
+us7000maxr,6.4,earthquake,2024-04-09 09:47:59,1712660000000.0,green,mww,2.7135,127.094,"150 km NW of Tobelo, Indonesia",Asia,Indonesia,Moluccas
+us6000mkvx,5.7,earthquake,2024-03-24 03:04:07,1711250000000.0,green,mww,-9.444,122.147,"85 km SE of Ende, Indonesia",Asia,Indonesia,East Nusa Tenggara
+us6000minw,5.7,earthquake,2024-03-13 18:56:14,1710360000000.0,green,mww,-0.1127,125.214,"111 km SE of Modisi, Indonesia",Asia,Indonesia,Sulawesi Utara
+us7000m439,6.0,earthquake,2024-03-08 09:11:45,1709890000000.0,green,mww,5.8202,126.88,"103 km SE of Pondaguitan, Philippines",Asia,Unknown,Unknown
+us6000mg1k,5.4,earthquake,2024-03-01 09:29:02,1709290000000.0,green,mww,8.8205,126.704,"47 km E of Aras-asan, Philippines",Asia,Unknown,Unknown
+us6000mfqj,5.4,earthquake,2024-02-29 00:23:58,1709170000000.0,green,mww,8.8517,126.782,"46 km E of Aras-asan, Philippines",Asia,Unknown,Unknown
+us6000mfqh,5.1,earthquake,2024-02-29 00:10:12,1709170000000.0,green,mww,8.7891,126.765,"56 km E of Aras-asan, Philippines",Asia,Unknown,Unknown
+us7000m1ss,4.9,earthquake,2024-02-27 04:49:09,1709010000000.0,green,mww,-9.5467,125.049,"30 km SW of Suai, Timor Leste",Asia,Indonesia,East Nusa Tenggara
+us7000lyiz,5.3,earthquake,2024-02-12 02:03:06,1707700000000.0,green,mww,9.7634,126.712,"64 km E of Union, Philippines",Asia,Unknown,Unknown
+us7000ly7s,5.4,earthquake,2024-02-10 05:21:35,1707540000000.0,green,mb,8.7286,125.71,"1 km NNW of Salvacion, Philippines",Asia,Philippines (the),Caraga (Region XIII)
+us7000ly6w,5.8,earthquake,2024-02-10 03:22:06,1707540000000.0,green,mww,8.6991,125.544,"8 km W of Esperanza, Philippines",Asia,Philippines (the),Caraga (Region XIII)
+us7000ltpz,5.6,earthquake,2024-01-25 12:24:12,1706190000000.0,green,mww,-8.2505,121.098,"89 km NW of Ende, Indonesia",Asia,Indonesia,East Nusa Tenggara
+us6000m45x,5.6,earthquake,2024-01-17 12:32:01,1705490000000.0,green,mww,8.5458,126.497,"29 km NE of Hinatuan, Philippines",Asia,Philippines (the),Caraga (Region XIII)
+us6000m2jp,6.7,earthquake,2024-01-08 20:48:42,1704750000000.0,green,mww,4.8602,126.189,"93 km SE of Sarangani, Philippines",Asia,Indonesia,Sulawesi Utara
+us6000m0xq,5.3,earthquake,2024-01-01 07:52:43,1704100000000.0,green,mb,-0.1653,123.611,"94 km SE of Gorontalo, Indonesia",Asia,Indonesia,Sulawesi Tengah
+us7000lgsj,5.4,earthquake,2023-12-07 00:46:30,1701910000000.0,green,mww,9.0123,126.773,"49 km ENE of Aras-asan, Philippines",Asia,Unknown,Unknown
+us7000lgnk,4.9,earthquake,2023-12-06 14:52:37,1701870000000.0,green,mww,8.4776,126.735,"48 km ENE of Hinatuan, Philippines",Asia,Unknown,Unknown
+us7000lges,5.8,earthquake,2023-12-05 13:36:36,1701780000000.0,green,mww,9.1263,126.869,"60 km ENE of Bacolod, Philippines",Asia,Unknown,Unknown
+us7000lgdg,5.5,earthquake,2023-12-05 09:42:52,1701770000000.0,green,mww,9.1263,126.709,"43 km ENE of Bacolod, Philippines",Asia,Unknown,Unknown
+us7000lgd6,5.7,earthquake,2023-12-05 09:10:03,1701770000000.0,green,mww,9.0546,126.666,"45 km ENE of Aras-asan, Philippines",Asia,Unknown,Unknown
+us7000lga8,5.2,earthquake,2023-12-05 00:34:29,1701740000000.0,green,mww,8.9514,126.622,"27 km ENE of Aras-asan, Philippines",Asia,Unknown,Unknown
+us7000lg1v,5.3,earthquake,2023-12-04 05:15:43,1701670000000.0,green,mb,8.3449,126.792,"42 km ENE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lg1q,5.7,earthquake,2023-12-04 05:08:36,1701670000000.0,green,mww,8.8312,126.691,"37 km E of Aras-asan, Philippines",Asia,Unknown,Unknown
+us7000lg1m,5.3,earthquake,2023-12-04 04:59:01,1701670000000.0,green,mww,8.8795,126.674,"39 km E of Aras-asan, Philippines",Asia,Unknown,Unknown
+us7000lg1b,5.3,earthquake,2023-12-04 04:17:23,1701660000000.0,green,mww,8.8411,126.749,"49 km E of Aras-asan, Philippines",Asia,Unknown,Unknown
+us7000lg0q,5.5,earthquake,2023-12-04 01:07:50,1701650000000.0,green,mww,8.441,126.873,"52 km NE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lfzh,5.4,earthquake,2023-12-03 21:43:38,1701640000000.0,green,mb,8.7118,126.798,"56 km E of Marihatag, Philippines",Asia,Unknown,Unknown
+us7000lfz0,5.3,earthquake,2023-12-03 20:30:19,1701640000000.0,green,mb,8.9293,126.563,"19 km E of Aras-asan, Philippines",Asia,Unknown,Unknown
+us7000lfxx,6.9,earthquake,2023-12-03 19:49:35,1701630000000.0,green,mww,8.9571,126.628,"34 km ENE of Aras-asan, Philippines",Asia,Unknown,Unknown
+us7000lfwj,6.0,earthquake,2023-12-03 14:35:56,1701610000000.0,green,mww,8.7176,126.897,"58 km E of Marihatag, Philippines",Asia,Unknown,Unknown
+us7000lfvs,5.4,earthquake,2023-12-03 12:39:36,1701610000000.0,green,mb,8.65,127.021,"81 km E of Marihatag, Philippines",Asia,Unknown,Unknown
+us7000lfux,5.4,earthquake,2023-12-03 10:58:38,1701600000000.0,green,mb,8.815,126.868,"57 km E of Aras-asan, Philippines",Asia,Unknown,Unknown
+us7000lfus,5.6,earthquake,2023-12-03 10:54:55,1701600000000.0,green,mww,8.545,126.871,"61 km ENE of Hinatuan, Philippines",Asia,Unknown,Unknown
+us7000lfui,5.5,earthquake,2023-12-03 10:53:05,1701600000000.0,green,mb,8.2878,127.04,"69 km ENE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lhdb,5.7,earthquake,2023-12-03 10:39:23,1701600000000.0,green,mb,8.5597,126.617,"37 km ENE of Hinatuan, Philippines",Asia,Philippines (the),Unknown
+us7000lftp,6.6,earthquake,2023-12-03 10:35:52,1701600000000.0,green,mww,8.4498,126.72,"47 km ENE of Hinatuan, Philippines",Asia,Unknown,Unknown
+us7000lfrl,5.4,earthquake,2023-12-03 05:43:43,1701580000000.0,green,mww,8.6521,126.674,"44 km ESE of Marihatag, Philippines",Asia,Unknown,Unknown
+us7000lfnu,5.5,earthquake,2023-12-02 22:35:41,1701560000000.0,green,mb,8.353,126.93,"55 km ENE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lgan,6.0,earthquake,2023-12-02 20:52:15,1701550000000.0,green,mww,8.4475,126.778,"49 km NE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lfmb,5.4,earthquake,2023-12-02 20:39:30,1701550000000.0,green,mb,8.248,126.82,"36 km ENE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lfln,5.3,earthquake,2023-12-02 19:19:21,1701540000000.0,green,mb,8.4219,126.838,"52 km ENE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lfkr,5.4,earthquake,2023-12-02 18:20:40,1701540000000.0,green,mb,8.6178,126.709,"37 km NE of Hinatuan, Philippines",Asia,Unknown,Unknown
+us7000lfkh,6.3,earthquake,2023-12-02 18:09:25,1701540000000.0,green,mww,8.4439,126.919,"63 km ENE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lfk5,5.6,earthquake,2023-12-02 17:55:28,1701540000000.0,green,mb,8.7034,126.768,"52 km ESE of Marihatag, Philippines",Asia,Unknown,Unknown
+us7000lh3u,5.4,earthquake,2023-12-02 17:45:05,1701540000000.0,green,mb,8.3044,126.566,"21 km NE of Barcelona, Philippines",Asia,Philippines (the),Caraga (Region XIII)
+us7000lgzt,5.4,earthquake,2023-12-02 17:43:14,1701540000000.0,green,mb,8.2748,126.828,"45 km ENE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lgzs,5.6,earthquake,2023-12-02 17:42:16,1701540000000.0,green,mb,8.4261,126.521,"21 km ENE of Hinatuan, Philippines",Asia,Philippines (the),Caraga (Region XIII)
+us7000lfjr,6.1,earthquake,2023-12-02 17:40:15,1701540000000.0,green,mb,8.4118,126.746,"41 km NE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lfj2,5.7,earthquake,2023-12-02 16:53:08,1701540000000.0,green,mb,8.4001,126.922,"54 km ENE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lfir,5.4,earthquake,2023-12-02 16:34:59,1701530000000.0,green,mb,8.6083,126.699,"44 km NE of Hinatuan, Philippines",Asia,Unknown,Unknown
+us7000lfif,5.7,earthquake,2023-12-02 16:19:46,1701530000000.0,green,mb,8.3159,126.767,"45 km ENE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lfia,5.6,earthquake,2023-12-02 16:17:01,1701530000000.0,green,mb,8.4845,126.736,"46 km ENE of Hinatuan, Philippines",Asia,Unknown,Unknown
+us7000lfi0,6.4,earthquake,2023-12-02 16:03:41,1701530000000.0,green,mww,8.415,126.776,"47 km NE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lfhj,5.5,earthquake,2023-12-02 15:31:29,1701530000000.0,green,mb,8.493,126.771,"48 km ENE of Hinatuan, Philippines",Asia,Unknown,Unknown
+us7000lfh8,5.4,earthquake,2023-12-02 15:22:05,1701530000000.0,green,mb,8.3678,126.734,"31 km NE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lgzw,5.4,earthquake,2023-12-02 15:08:56,1701530000000.0,green,mb,8.3335,126.583,"25 km NE of Barcelona, Philippines",Asia,Philippines (the),Caraga (Region XIII)
+us7000lfgr,5.8,earthquake,2023-12-02 15:06:46,1701530000000.0,green,mb,8.315,127.021,"65 km ENE of Barcelona, Philippines",Asia,Unknown,Unknown
+us7000lh28,5.4,earthquake,2023-12-02 14:44:36,1701530000000.0,green,mb,8.0495,126.606,"18 km ENE of Santa Maria, Philippines",Asia,Philippines (the),Unknown
+us7000lgz3,5.4,earthquake,2023-12-02 14:44:03,1701530000000.0,green,mb,8.5324,126.505,"25 km NE of Hinatuan, Philippines",Asia,Philippines (the),Caraga (Region XIII)
+us7000lff4,7.6,earthquake,2023-12-02 14:37:04,1701530000000.0,yellow,mww,8.5266,126.449,"19 km E of Gamut, Philippines",Asia,Philippines (the),Caraga (Region XIII)
+us6000lpyx,6.0,earthquake,2023-11-22 02:48:51,1700620000000.0,green,mww,1.7425,127.153,"91 km W of Tobelo, Indonesia",Asia,Indonesia,Moluccas
+us6000lp12,6.7,earthquake,2023-11-17 08:14:10,1700210000000.0,yellow,mww,5.5872,125.051,"32 km SW of Kablalan, Philippines",Asia,Philippines (the),Unknown
+us6000lnq0,5.8,earthquake,2023-11-15 23:26:14,1700090000000.0,green,mww,1.9752,124.137,"96 km NW of Manado, Indonesia",Asia,Unknown,Unknown
+us7000laer,5.2,earthquake,2023-11-12 02:06:16,1699750000000.0,green,mww,-9.9023,123.7,"29 km NNE of Kupang, Indonesia",Asia,Indonesia,East Nusa Tenggara
+us7000l89a,5.7,earthquake,2023-11-02 06:50:25,1698910000000.0,green,mww,11.4641,125.922,"29 km ENE of Hernani, Philippines",Asia,Philippines (the),Unknown
+us7000l85t,6.1,earthquake,2023-11-01 21:04:48,1698870000000.0,green,mww,-10.0109,123.713,"20 km NE of Kupang, Indonesia",Asia,Indonesia,East Nusa Tenggara
+us7000l77a,5.4,earthquake,2023-10-28 15:01:59,1698510000000.0,green,mww,1.7869,120.193,"296 km N of Palu, Indonesia",Asia,Unknown,Unknown
+us7000l76s,5.5,earthquake,2023-10-28 13:04:53,1698500000000.0,green,mww,-7.6308,125.855,"98 km N of Manatutu, Timor Leste",Asia,Indonesia,Provinsi Maluku
+us6000lgpg,5.9,earthquake,2023-10-19 18:58:51,1697740000000.0,green,mww,7.4373,126.299,"18 km WSW of Batiano, Philippines",Asia,Philippines (the),Davao (Region XI)
+us6000lcri,6.4,earthquake,2023-10-04 11:21:47,1696420000000.0,green,mww,5.3416,126.06,"65 km E of Sarangani, Philippines",Asia,Indonesia,Sulawesi Utara
+us7000ky3a,5.9,earthquake,2023-09-26 01:39:43,1695690000000.0,green,mww,4.7296,127.501,"234 km SE of Pondaguitan, Philippines",Asia,Unknown,Unknown
+us7000kv0k,6.0,earthquake,2023-09-11 12:51:33,1694440000000.0,green,mww,1.1251,127.479,"38 km NNE of Ternate, Indonesia",Asia,Indonesia,North Maluku
+us7000kulj,6.0,earthquake,2023-09-09 14:43:24,1694270000000.0,green,mww,0.0054,119.771,"101 km N of Palu, Indonesia",Asia,Indonesia,Sulawesi Tengah
+us7000kufx,5.6,earthquake,2023-09-09 00:06:14,1694220000000.0,green,mww,-6.8155,116.552,"176 km NNE of Gili Air, Indonesia",Asia,Indonesia,Provinsi Sulawesi Selatan
+us7000ksbc,5.4,earthquake,2023-08-31 10:29:28,1693480000000.0,green,mww,-9.5312,123.86,"19 km NE of Naisano Dua, Indonesia",Asia,Indonesia,East Nusa Tenggara
+us7000krk4,5.7,earthquake,2023-08-28 20:08:06,1693250000000.0,green,mb,-7.0459,117.215,"156 km N of Pototano, Indonesia",Asia,Indonesia,Provinsi Sulawesi Selatan
+us7000krn7,5.5,earthquake,2023-08-28 20:06:53,1693250000000.0,green,mb,-6.8134,116.618,"180 km NNE of Gili Air, Indonesia",Asia,Indonesia,Provinsi Sulawesi Selatan
+us7000krjx,7.1,earthquake,2023-08-28 19:55:30,1693250000000.0,green,mww,-6.7768,116.568,"180 km NNE of Gili Air, Indonesia",Asia,Indonesia,Provinsi Sulawesi Selatan
+us7000krja,5.3,earthquake,2023-08-28 17:59:16,1693250000000.0,green,mww,4.2633,126.513,"Pulau-Pulau Talaud, Indonesia",Asia,Indonesia,Sulawesi Utara
+us7000lxp2,4.0,earthquake,2024-02-08 03:48:06,1707360000000.0,green,mb,28.5574,-78.9438,"171 km E of Cape Canaveral, Florida",North America,Unknown,Unknown
+ok2024cish,5.06,earthquake,2024-02-03 05:24:28,1706940000000.0,green,mww,35.5343,-96.7638,"8 km NW of Prague, Oklahoma",North America,USA,Oklahoma
+us7000n9fh,5.4,earthquake,2024-08-26 04:11:38,1724650000000.0,green,mb,37.9845,-9.538,"52 km W of Sines, Portugal",Europe,Unknown,Unknown
+us7000myxn,5.6,earthquake,2024-07-12 18:19:05,1720810000000.0,green,mww,-17.4037,-69.4991,"67 km E of Tarata, Peru",South America,Peru,Tacna
+us7000mytc,5.8,earthquake,2024-07-12 09:30:31,1720780000000.0,green,mww,-15.5726,-74.7689,"24 km SW of Acarí, Peru",South America,Peru,Arequipa
+us7000mxvv,5.4,earthquake,2024-07-08 19:33:26,1720470000000.0,green,mww,-15.9895,-74.7421,"59 km WSW of Atiquipa, Peru",South America,Peru,Unknown
+us6000n94d,5.4,earthquake,2024-06-29 07:22:47,1719650000000.0,green,mww,-16.1686,-74.3463,"30 km SW of Atiquipa, Peru",South America,Peru,Unknown
+us6000n948,6.1,earthquake,2024-06-29 07:05:32,1719640000000.0,green,mww,-16.1219,-74.5791,"34 km SW of Atiquipa, Peru",South America,Peru,Unknown
+us6000n8tq,7.2,earthquake,2024-06-28 05:36:36,1719550000000.0,yellow,mww,-15.8106,-74.4447,"10 km WSW of Atiquipa, Peru",South America,Peru,Unknown
+us7000mt41,5.5,earthquake,2024-06-18 02:22:10,1718680000000.0,green,mww,-3.8887,-76.6968,"53 km SSW of Alianza Cristiana, Peru",South America,Peru,Loreto
+us7000mstj,6.0,earthquake,2024-06-16 14:47:33,1718550000000.0,green,mww,-15.9192,-74.5392,"10 km SW of Atiquipa, Peru",South America,Peru,Unknown
+us7000lui3,6.5,earthquake,2024-01-28 09:38:56,1706430000000.0,green,mww,-8.2154,-71.3672,"70 km W of Tarauacá, Brazil",South America,Brazil,Acre
+us6000m52p,6.6,earthquake,2024-01-20 21:31:05,1705790000000.0,green,mww,-7.3193,-71.5055,"123 km NW of Tarauacá, Brazil",South America,Brazil,Amazonas
+us7000lkb1,6.2,earthquake,2023-12-20 12:11:21,1703070000000.0,green,mww,-15.9595,-72.6028,"11 km E of Iray, Peru",South America,Peru,Arequipa
+us7000lhwv,5.7,earthquake,2023-12-10 11:52:50,1702210000000.0,green,mww,-14.3528,-76.474,"53 km SSW of Paracas, Peru",South America,Peru,Unknown
+us7000kpt4,5.4,earthquake,2023-08-21 05:24:12,1692600000000.0,green,mww,-3.2512,-79.8994,"6 km N of Machala, Ecuador",South America,Ecuador,Provincia de El Oro
+us7000kp73,5.4,earthquake,2023-08-18 10:27:55,1692350000000.0,green,mww,-16.1071,-75.0833,"78 km S of San Juan, Peru",South America,Peru,Unknown
+us6000ky5l,5.4,earthquake,2023-08-05 18:33:59,1691260000000.0,red,mww,37.1933,116.381,"24 km S of Dezhou, China",Asia,China,Shandong Sheng
+us7000ma74,4.8,earthquake,2024-04-05 14:23:20,1712330000000.0,green,mwr,40.6834,-74.7526,"2024 Tewksbury, New Jersey Earthquake",North America,USA,New Jersey
+us7000lwmc,5.1,earthquake,2024-02-03 05:24:28,1706940000000.0,green,mww,35.5346,-96.7337,"6 km NW of Prague, Oklahoma",North America,USA,Oklahoma
+ok2024awva,4.1,earthquake,2024-01-13 11:36:21,1705150000000.0,green,mwr,35.6715,-97.41,"6 km ENE of Edmond, Oklahoma",North America,USA,Oklahoma
+us6000m3hx,4.5,earthquake,2024-01-13 11:36:21,1705150000000.0,green,ml,35.6697,-97.417,"5 km ENE of Edmond, Oklahoma",North America,USA,Oklahoma
+ok2024awfn,4.26,earthquake,2024-01-13 03:46:28,1705120000000.0,green,mwr,35.6658,-97.3982,"6 km W of Arcadia, Oklahoma",North America,USA,Oklahoma
+us7000la9a,4.0,earthquake,2023-11-11 00:18:41,1699660000000.0,green,mwr,39.0497,-97.6164,"4 km NW of Bennington, Kansas",North America,USA,Kansas
+us7000lts5,5.4,earthquake,2024-01-25 17:00:43,1706200000000.0,green,mww,11.7428,43.3665,"27 km SSE of Obock, Djibouti",Africa,Djibouti,Unknown
+us7000l6lk,5.2,earthquake,2023-10-26 19:00:25,1698350000000.0,green,mww,-7.3035,27.9327,"177 km SE of Kabalo, Democratic Republic of the Congo",Africa,Congo (the Democratic Republic of the),Tanganika
+us6000kynh,5.5,earthquake,2023-08-08 15:31:18,1691510000000.0,green,mww,-5.4123,34.9183,"39 km SSE of Ikungi, Tanzania",Africa,"Tanzania, the United Republic of",Singida Region
+us6000lpra,5.5,earthquake,2023-11-21 05:10:26,1700540000000.0,green,mww,0.9561,-29.0181,central Mid-Atlantic Ridge,South America,Unknown,Unknown
