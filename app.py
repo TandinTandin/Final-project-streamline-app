@@ -177,6 +177,7 @@ st.markdown("""
 **Overall Insights**: Visuals highlight Asia's 60%+ high-magnitude dominance (bar/KPIs) and Aug-Oct temporal peaks (line), with weak correlations (heatmap) signaling Pacific hotspots—validating Gutenberg hypothesis and regional patterns for targeted preparedness.
 """)
 
-st.caption("AICOURSE Project | KarmaWangdi, JigmeKelzang, Tandin, SonamNorbu, SangayNeedup | November 22, 2025")
+st.caption("AICOURSE Project | KarmaWangdi, JigmeKelzang, Tandin, SonamNorbu, SangayNeedup | December 13, 2025")
+
 
 
