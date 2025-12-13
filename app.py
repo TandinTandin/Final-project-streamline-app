@@ -176,4 +176,5 @@ st.caption("Dashboard Flow: KPIs (overview) → Map (spatial hotspots) → Bar (
 st.markdown("""
 **Overall Insights**: Visuals highlight Asia's 60%+ high-magnitude dominance (bar/KPIs) and Aug-Oct temporal peaks (line), with weak correlations (heatmap) signaling Pacific hotspots—validating Gutenberg hypothesis and regional patterns for targeted preparedness.
 """)
-st.caption("CSA202 Project | PelgyeDorji, KarmaSangayPalden, DewasChuwan, KarmaWangdi | November 22, 2025")
+
+st.caption("AI COurse Final Project | Tandin, KarmaWangdi, SonamNorbu, JigmeKelzang, SangayNeedup | December 13, 2025")
